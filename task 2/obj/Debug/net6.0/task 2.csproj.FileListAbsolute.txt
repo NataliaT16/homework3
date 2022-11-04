@@ -1,0 +1,15 @@
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/obj/Debug/net6.0/task 2.csproj.AssemblyReference.cache
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/obj/Debug/net6.0/task 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/obj/Debug/net6.0/task 2.AssemblyInfoInputs.cache
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/obj/Debug/net6.0/task 2.AssemblyInfo.cs
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/obj/Debug/net6.0/task 2.csproj.CoreCompileInputs.cache
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/bin/Debug/net6.0/task 2
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/bin/Debug/net6.0/task 2.deps.json
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/bin/Debug/net6.0/task 2.runtimeconfig.json
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/bin/Debug/net6.0/task 2.dll
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/bin/Debug/net6.0/task 2.pdb
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/obj/Debug/net6.0/task 2.dll
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/obj/Debug/net6.0/refint/task 2.dll
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/obj/Debug/net6.0/task 2.pdb
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/obj/Debug/net6.0/task 2.genruntimeconfig.cache
+/Users/nataliatereshina/Desktop/Homework seminar 3/task 2/obj/Debug/net6.0/ref/task 2.dll
